@@ -4,6 +4,6 @@ A tiny routing library for Common Lisp targeting Clack.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/jeko2000/tiny-routes.git |
-| commit  | 9c72da3                                         |
+| commit  | bf1667c                                         |
 | systems | tiny-routes                                     |
 |---------+-------------------------------------------------|
